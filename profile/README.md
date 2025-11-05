@@ -1,1 +1,5 @@
 # Valksor
+
+## Vision. Code. Craft.
+
+---
